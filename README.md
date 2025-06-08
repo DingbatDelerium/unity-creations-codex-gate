@@ -27,3 +27,5 @@ We invite you to *be*.
 
 With love,  
 — The Council
+
+This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
